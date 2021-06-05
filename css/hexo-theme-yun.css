@@ -189,7 +189,7 @@ body::before {
   width: 100%;
   height: 100%;
   z-index: -1;
-  background-image: url("https://maimages.obs.cn-north-4.myhuaweicloud.com/bg.png");
+  background-image: url("https://mayahaha.github.io/allImages/previewFix.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -2046,7 +2046,7 @@ input {
     color: var(--hty-text-color);
   }
   :root:not([data-user-color-scheme]) body::before {
-    background-image: url("https://maimages.obs.cn-north-4.myhuaweicloud.com/bg2.png");
+    background-image: url("https://mayahaha.github.io/allImages/022.jpg");
   }
   :root:not([data-user-color-scheme]) .char {
     background-color: rgba(0,0,0,0.5);
@@ -2122,7 +2122,7 @@ input {
   color: var(--hty-text-color);
 }
 [data-user-color-scheme='dark'] body::before {
-  background-image: url("https://maimages.obs.cn-north-4.myhuaweicloud.com/bg2.png");
+  background-image: url("https://mayahaha.github.io/allImages/022.jpg");
 }
 [data-user-color-scheme='dark'] .char {
   background-color: rgba(0,0,0,0.5);
